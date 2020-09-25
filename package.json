@@ -1,0 +1,56 @@
+{
+    "name": "eyehealth",
+    "displayName": "EyeHealth",
+    "description": "Eye health protection dark theme for Visual Studio Code",
+    "version": "0.1.0",
+    "publisher": "jonathanhild",
+    "author": {
+        "name": "Jonathan Hildenbrand"
+    },
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "license": "MIT",
+    "contributes": {
+        "themes": [
+            {
+                "label": "EyeHealth Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/eyehealth-dark-color-theme.json"
+            }
+        ]
+    },
+    "galleryBanner": {
+        "color": "#fffcf4",
+        "theme": "light"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark",
+        "eye",
+        "sight",
+        "protect",
+        "care",
+        "health",
+        "vision",
+        "relax",
+        "comfortable",
+        "nature",
+        "strain",
+        "stress",
+        "sore",
+        "headache"
+    ],
+    "bugs": {
+        "url": "https://github.com/jonathanhild/eyehealth/issues"
+    },
+    "homepage": "https://github.com/jonathanhild/eyehealth",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jonathanhild/eyehealth.git"
+    },
+    "badges": []
+}
