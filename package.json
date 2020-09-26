@@ -2,7 +2,7 @@
     "name": "eyehealth",
     "displayName": "EyeHealth",
     "description": "Eye health protection dark theme for Visual Studio Code",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "publisher": "jonathanhild",
     "author": {
         "name": "Jonathan Hildenbrand"
