@@ -20,9 +20,10 @@
             }
         ]
     },
+    "icon": "./images/eyehealth-logo.png",
     "galleryBanner": {
-        "color": "#fffcf4",
-        "theme": "light"
+        "color": "#8cc152",
+        "theme": "dark"
     },
     "categories": [
         "Themes"
